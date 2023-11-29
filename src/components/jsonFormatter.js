@@ -61,7 +61,7 @@ function JsonFormatter() {
 
   return (
     <div>
-      <h2>JSON Formatter</h2>
+      <h2>JSON To Excel Formatter</h2>
       <div>
         <textarea
           placeholder="Enter JSON here..."
